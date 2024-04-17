@@ -1,0 +1,15 @@
+﻿@model ProductDetailViewModel
+
+
+    <h1>This is a Detail page</h1>
+    <h3>Name: @Model.Product.Name</h3>
+    <h3>Price: @Model.Product.Price</h3>
+
+    <hr />
+    <h2>Brands:</h2>
+    <ul>
+        @foreach (var item in Model.Brands)
+    {
+        <li>@item.Name</li>
+    }
+    </ul>

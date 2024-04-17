@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\FrontToBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2860E53-526A-42ED-836A-6D5A4DBCEC65}|Eterna\\Eterna.csproj|c:\\users\\elchin\\desktop\\codelesson\\66. 17-04-2024\\fronttoback\\eterna\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2860E53-526A-42ED-836A-6D5A4DBCEC65}|Eterna\\Eterna.csproj|solutionrelative:eterna\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2860E53-526A-42ED-836A-6D5A4DBCEC65}|Eterna\\Eterna.csproj|c:\\users\\elchin\\desktop\\codelesson\\66. 17-04-2024\\fronttoback\\eterna\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2860E53-526A-42ED-836A-6D5A4DBCEC65}|Eterna\\Eterna.csproj|solutionrelative:eterna\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2860E53-526A-42ED-836A-6D5A4DBCEC65}|Eterna\\Eterna.csproj|c:\\users\\elchin\\desktop\\codelesson\\66. 17-04-2024\\fronttoback\\eterna\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2860E53-526A-42ED-836A-6D5A4DBCEC65}|Eterna\\Eterna.csproj|solutionrelative:eterna\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2860E53-526A-42ED-836A-6D5A4DBCEC65}|Eterna\\Eterna.csproj|c:\\users\\elchin\\desktop\\codelesson\\66. 17-04-2024\\fronttoback\\eterna\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2860E53-526A-42ED-836A-6D5A4DBCEC65}|Eterna\\Eterna.csproj|solutionrelative:eterna\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\FrontToBack\\Eterna\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eterna\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\FrontToBack\\Eterna\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Eterna\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T17:40:27.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\FrontToBack\\Eterna\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Eterna\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\FrontToBack\\Eterna\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Eterna\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAhwD8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T17:37:29.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\FrontToBack\\Eterna\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Eterna\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\FrontToBack\\Eterna\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Eterna\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T17:37:23.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\FrontToBack\\Eterna\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Eterna\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\FrontToBack\\Eterna\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Eterna\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:37:07.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\WebApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6687EBF6-C4F4-49C3-8499-5BF38F66720C}|WebApp1\\WebApp1.csproj|c:\\users\\elchin\\desktop\\codelesson\\66. 17-04-2024\\webapp1\\webapp1\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6687EBF6-C4F4-49C3-8499-5BF38F66720C}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6687EBF6-C4F4-49C3-8499-5BF38F66720C}|WebApp1\\WebApp1.csproj|c:\\users\\elchin\\desktop\\codelesson\\66. 17-04-2024\\webapp1\\webapp1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6687EBF6-C4F4-49C3-8499-5BF38F66720C}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6687EBF6-C4F4-49C3-8499-5BF38F66720C}|WebApp1\\WebApp1.csproj|c:\\users\\elchin\\desktop\\codelesson\\66. 17-04-2024\\webapp1\\webapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6687EBF6-C4F4-49C3-8499-5BF38F66720C}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6687EBF6-C4F4-49C3-8499-5BF38F66720C}|WebApp1\\WebApp1.csproj|c:\\users\\elchin\\desktop\\codelesson\\66. 17-04-2024\\webapp1\\webapp1\\viewmodels\\productdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6687EBF6-C4F4-49C3-8499-5BF38F66720C}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\viewmodels\\productdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\WebApp1\\WebApp1\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\WebApp1\\WebApp1\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T15:31:50.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\WebApp1\\WebApp1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\WebApp1\\WebApp1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwC0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:31:20.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\WebApp1\\WebApp1\\ViewModels\\ProductDetailViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp1\\ViewModels\\ProductDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\WebApp1\\WebApp1\\ViewModels\\ProductDetailViewModel.cs",
+              "RelativeToolTip": "WebApp1\\ViewModels\\ProductDetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:30:38.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\WebApp1\\WebApp1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\66. 17-04-2024\\WebApp1\\WebApp1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApp1\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAgwD8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:30:10.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

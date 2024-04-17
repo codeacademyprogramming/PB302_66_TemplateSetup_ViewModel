@@ -1,0 +1,21 @@
+﻿@model HomeViewModel
+<h3>
+    Home page
+</h3>
+
+<h3>Products:</h3>
+<ul>
+    @foreach (Product item in Model.Products)
+    {
+        <li>@item.Name - @item.Price</li>
+    }
+</ul>
+
+<h3>Brands:</h3>
+<ul>
+    @foreach (Brand item in Model.Brands)
+    {
+        <li>@item.Name</li>
+    }
+</ul>
+
